@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kosh-Shukla
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning CSS & JavaScript
 - 💞️ I’m looking to collaborate on Projects requiring JS,CSS and HTML
 - 📫 Contact me at kosh.p.shukla@gmail.com
 
